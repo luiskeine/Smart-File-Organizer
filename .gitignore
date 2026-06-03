@@ -1,0 +1,16 @@
+    # Python bytecode
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+env/
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Local configuration (Luis's personal paths)
+config.json
+organizer_log.txt
